@@ -15,7 +15,7 @@ Jinja2==3.1.6
 lxml==4.3.2
 Markdown==3.10.2
 MarkupSafe==1.0
-numpy==1.15.4
+numpy==1.22.0
 pelican==4.0.1
 Pygments==2.3.1
 pyreadline==2.1
