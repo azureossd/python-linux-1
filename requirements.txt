@@ -13,7 +13,7 @@ idna==2.7
 itsdangerous==0.24
 Jinja2==3.1.6
 lxml==4.3.2
-Markdown==3.0.1
+Markdown==3.10.2
 MarkupSafe==1.0
 numpy==1.15.4
 pelican==4.0.1
