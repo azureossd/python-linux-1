@@ -25,7 +25,7 @@ regex==2018.1.10
 requests==2.33.0
 six==1.12.0
 soupsieve==2.8.3
-Unidecode==1.0.23
+Unidecode==1.4.0
 urllib3==2.6.3
 Werkzeug==3.1.6
 xgboost
